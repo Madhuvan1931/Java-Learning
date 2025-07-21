@@ -28,7 +28,7 @@ This repository contains my daily practice, notes, and small projects as I learn
 - **Language**: Java  
 - **IDE**: VS Code / IntelliJ IDEA  
 - **Version Control**: Git + GitHub  
-- **Platform**: Windows 10  
+- **Platform**: Windows  
 
 ---
 
